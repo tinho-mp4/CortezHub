@@ -49,7 +49,7 @@ const QuizScreen = () => {
       />
       
       <Container>
-        <Poster source={require('../assets/images/valorantbg.jpg')}>
+        <Poster source={require('../assets/images/callofdutybg.jpg')}>
           <Gradient
             locations={[0, 0.3, 0.4, 0.93]}
             colors={[
